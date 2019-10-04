@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://Sakuraxx.github.io/"/>
-  <updated>2019-10-04T04:04:54.347Z</updated>
+  <updated>2019-10-04T04:11:25.930Z</updated>
   <id>https://Sakuraxx.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>这是测试</title>
-    <link href="https://Sakuraxx.github.io/2019/10/04/zhe-shi-ce-shi/"/>
-    <id>https://Sakuraxx.github.io/2019/10/04/zhe-shi-ce-shi/</id>
-    <published>2019-10-04T03:17:09.000Z</published>
-    <updated>2019-10-04T04:04:54.347Z</updated>
+    <title>第二篇测试其他</title>
+    <link href="https://Sakuraxx.github.io/2019/10/04/di-er-pian-ce-shi-qi-ta/"/>
+    <id>https://Sakuraxx.github.io/2019/10/04/di-er-pian-ce-shi-qi-ta/</id>
+    <published>2019-10-04T04:10:02.000Z</published>
+    <updated>2019-10-04T04:11:25.930Z</updated>
     
     <summary type="html">
     
@@ -29,25 +29,25 @@
       
         
         
-          &lt;p&gt;这是测试图片&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;meme.jpg&quot; alt=&quot;测试图片&quot;&gt;&lt;/p&gt;
-&lt;pre class=&quot;line-numbers language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token
+          &lt;h1 id=&quot;我们&quot;&gt;&lt;a href=&quot;#我们&quot; class=&quot;headerlink&quot; title=&quot;我们&quot;&gt;&lt;/a&gt;我们&lt;/h1&gt;&lt;h2 id=&quot;很好&quot;&gt;&lt;a href=&quot;#很好&quot; class=&quot;headerlink&quot; title=&quot;很好&quot;&gt;&lt;/a&gt;很好&lt;/h2&gt;&lt;h3
         
       
     
     </summary>
     
-      <category term="测试" scheme="https://Sakuraxx.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
+      <category term="编程语言" scheme="https://Sakuraxx.github.io/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
     
+    
+      <category term="python 测试" scheme="https://Sakuraxx.github.io/tags/python-%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
   <entry>
-    <title>递归</title>
-    <link href="https://Sakuraxx.github.io/2019/10/03/di-gui/"/>
-    <id>https://Sakuraxx.github.io/2019/10/03/di-gui/</id>
-    <published>2019-10-03T13:09:38.000Z</published>
-    <updated>2019-10-03T14:08:55.518Z</updated>
+    <title>第一篇测试图片</title>
+    <link href="https://Sakuraxx.github.io/2019/10/04/di-yi-pian-ce-shi-tu-pian/"/>
+    <id>https://Sakuraxx.github.io/2019/10/04/di-yi-pian-ce-shi-tu-pian/</id>
+    <published>2019-10-04T04:08:43.000Z</published>
+    <updated>2019-10-04T04:11:49.470Z</updated>
     
     <summary type="html">
     
@@ -55,36 +55,16 @@
       
         
         
-          &lt;h2 id=&quot;分治&quot;&gt;&lt;a href=&quot;#分治&quot; class=&quot;headerlink&quot; title=&quot;分治&quot;&gt;&lt;/a&gt;分治&lt;/h2&gt;&lt;p&gt;分治（divide and
+          &lt;p&gt;这是第一篇文章 用于测试图片&lt;br&gt;&lt;img src=&quot;post1.jpg&quot;
         
       
     
     </summary>
     
+      <category term="生活" scheme="https://Sakuraxx.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
     
-      <category term="递归" scheme="https://Sakuraxx.github.io/tags/%E9%80%92%E5%BD%92/"/>
     
-  </entry>
-  
-  <entry>
-    <title>first again</title>
-    <link href="https://Sakuraxx.github.io/2019/10/03/first-again/"/>
-    <id>https://Sakuraxx.github.io/2019/10/03/first-again/</id>
-    <published>2019-10-03T11:46:23.000Z</published>
-    <updated>2019-10-03T11:48:31.443Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;又是一次&quot;&gt;&lt;a href=&quot;#又是一次&quot; class=&quot;headerlink&quot; title=&quot;又是一次&quot;&gt;&lt;/a&gt;又是一次&lt;/h1&gt;&lt;h2 id=&quot;希望这次可以好好的&quot;&gt;&lt;a href=&quot;#希望这次可以好好的&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
+      <category term="测试" scheme="https://Sakuraxx.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
