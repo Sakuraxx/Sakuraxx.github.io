@@ -644,6 +644,28 @@
     </div>
 
     
+    <link rel="stylesheet" href="/libs/gitalk/gitalk.css">
+<link rel="stylesheet" href="/css/my-gitalk.css">
+
+<div class="card gitalk-card" data-aos="fade-up">
+    <div id="gitalk-container" class="card-content"></div>
+</div>
+
+<script src="/libs/gitalk/gitalk.min.js"></script>
+<script>
+    let gitalk = new Gitalk({
+        clientID: '9fb1ba3d244ae812948d',
+        clientSecret: 'cf896203c11f436b2b8737e037877b5deb641e68',
+        repo: 'Sakuraxx.github.io',
+        owner: 'Sakuraxx',
+        admin: "Sakuraxx",
+        id: '2019/10/04/di-er-pian-ce-shi-qi-ta/',
+        distractionFreeMode: false  // Facebook-like distraction free mode
+    });
+
+    gitalk.render('gitalk-container');
+</script>
+    
 
     
 
